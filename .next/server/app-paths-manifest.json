@@ -1,0 +1,9 @@
+{
+  "/callback/page": "app/callback/page.js",
+  "/api/problems/gettingProblems/route": "app/api/problems/gettingProblems/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/api/auth/[code]/route": "app/api/auth/[code]/route.js",
+  "/problemspage/page": "app/problemspage/page.js",
+  "/api/user/[userId]/route": "app/api/user/[userId]/route.js",
+  "/page": "app/page.js"
+}
